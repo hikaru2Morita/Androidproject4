@@ -3,11 +3,19 @@ plugins {
 }
 
 android {
+<<<<<<< HEAD
     namespace 'com.example.hellosample'
     compileSdk 34
 
     defaultConfig {
         applicationId "com.example.hellosample"
+=======
+    namespace 'com.example.viewsample'
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.example.viewsample"
+>>>>>>> 469bbaaab4176ace17ad55776cc2dbb8032d29c5
         minSdk 24
         targetSdk 34
         versionCode 1

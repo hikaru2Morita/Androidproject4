@@ -19,5 +19,9 @@ dependencyResolutionManagement {
     }
 }
 
+<<<<<<< HEAD
 rootProject.name = "HelloSample"
+=======
+rootProject.name = "ViewSample"
+>>>>>>> 469bbaaab4176ace17ad55776cc2dbb8032d29c5
 include ':app'
